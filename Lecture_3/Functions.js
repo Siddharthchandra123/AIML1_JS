@@ -20,4 +20,4 @@ document.write(res)
 var add2 = (a,b) =>{return a+b};
 
 var res2 = add2(10,20);
-document.write(res2)
+console.log(res2)
