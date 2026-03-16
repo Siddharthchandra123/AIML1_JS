@@ -50,3 +50,7 @@ console.log(result)
 const classmate=document.getElementByClassName("myClass")
 classmate.innerHTML = "Hello World, this is DOM manipulation in JS"
 console.log(classmate)
+
+const tgele=document.getElementsByTagName()
+
+const query= document.querySelector()

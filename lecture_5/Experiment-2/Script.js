@@ -57,4 +57,6 @@ function averageSalary(){
     let average=total/employees[Salary].length
 }
 
-function countDept(){}
+function countDept(){
+    
+}
